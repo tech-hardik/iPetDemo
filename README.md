@@ -1,7 +1,10 @@
-![Simulator Screenshot - iPhone 14 - 2023-07-15 at 09 06 50](https://github.com/tech-hardik/iPetDemo/assets/138746923/c77f2927-7c03-496f-a49f-c66b137f8ad1)# iPetDemo
+# iPetDemo
+
 A pet app created using SwiftUI and UserDefaults. Every 10 seconds, the pet's hunger and thirst levels change, which also changes its happiness levels.
+
 It was one of my first iOS projects, its silly but fun to use.
 
+![Simulator Screenshot - iPhone 14 - 2023-07-15 at 09 06 50](https://github.com/tech-hardik/iPetDemo/assets/138746923/c77f2927-7c03-496f-a49f-c66b137f8ad1)
 # When its hunger and thirst are satisfied, the pet is happy.
 ![Simulator Screenshot - iPhone 14 - 2023-07-15 at 09 06 41](https://github.com/tech-hardik/iPetDemo/assets/138746923/84a11ce0-e96c-4547-b5a1-5f264b450701)
 
